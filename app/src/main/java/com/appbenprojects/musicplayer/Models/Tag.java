@@ -10,7 +10,7 @@ public class Tag {
 	public int id;
 	
 	@NonNull
-	public String songURI;
+	public String songUri;
 	
 	@NonNull
 	public String tagName;
