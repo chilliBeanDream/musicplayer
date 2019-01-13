@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 import com.appbenprojects.musicplayer.R;
 
-public class Settings extends AppCompatActivity {
+public class SettingsActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
